@@ -7,25 +7,25 @@
 ## Pages
 
 ### Home
-https://fade-society-barbers-ea9c9e6d.zappy5.app
+https://example.com
 Discover LA&#39;s premier vintage barber shop where precision cuts meet timeless style. Experience luxury grooming, 4.9-star craft, and the perfect fade. Book your chair today.
 
 ### Thank You | Fade Society Barbers
-https://fade-society-barbers-ea9c9e6d.zappy5.app/thank-you
+https://example.com/thank-you
 Fade Society Barbers - Thank You | Fade Society Barbers
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fade-society-barbers-ea9c9e6d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fade-society-barbers-ea9c9e6d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fade-society-barbers-ea9c9e6d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://fade-society-barbers-ea9c9e6d.zappy5.app
-- Endpoint: https://fade-society-barbers-ea9c9e6d.zappy5.app/api/email/contact-form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -66,6 +66,6 @@ Barber Shop
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://fade-society-barbers-ea9c9e6d.zappy5.app/sitemap.xml
-- Robots: https://fade-society-barbers-ea9c9e6d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://fade-society-barbers-ea9c9e6d.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
